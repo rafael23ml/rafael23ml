@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-✨ Hi everyone👋! Im Rafael Lima.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=178346&width=435&lines=%E2%9C%A8+Hi+everyone%F0%9F%91%8B!;+I'm+Rafael+Lima.)](https://git.io/typing-svg)
 
 👯 I’m currently working at Compass.UOL as a Machine Learning Engineer.
 
